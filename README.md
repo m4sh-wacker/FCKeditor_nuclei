@@ -1,2 +1,2 @@
 # FCKeditor_nuclei
-FCKEditor RFU
+FCKEditor RFU(Remote File Upload) vulnerability
